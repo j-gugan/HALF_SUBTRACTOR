@@ -25,6 +25,6 @@ endmodule
 # output:
 ![image](https://github.com/j-gugan/HALF_SUBTRACTOR/assets/163828735/8a3955bd-5ad3-4d88-99f6-3dc0c7aa7006)
 # Result:
-Thus,the half subtracter using Vivado is stimulated and synthesised.
+Thus,the half subtracter using Vivado is simulated and synthesised.
 
 
